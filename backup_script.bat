@@ -1,4 +1,8 @@
 @echo off
+REM SPDX-License-Identifier: MIT
+REM Copyright (c) 2026 [본인 성함 또는 닉네임]
+REM AI-Generated: This script was created with AI collaboration.
+
 setlocal enabledelayedexpansion
 
 REM ==========================================
