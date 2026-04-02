@@ -24,8 +24,8 @@
 ### 1. 특정 파일들만 선별하여 백업할 경우
 ```batch
 set FILE_LIST=(^
-"pjt\src\main\java\com\App.java"^
-"pjt\src\main\resources\config.xml"^
+"src\main\java\com\App.java"^
+"src\main\resources\config.xml"^
 )
 ```
 
