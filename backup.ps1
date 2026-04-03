@@ -1,4 +1,6 @@
 # SPDX-License-Identifier: MIT
+# Copyright (c) 2026 just-meh-apps@gmail.com
+# AI-Generated: This script was optimized for path error handling.
 # Windows Project Auto Backup Script
 
 Param(
