@@ -1,0 +1,9 @@
+{
+  "SRC_BASE": "C:/workspace/project_alpha",
+  "BACKUP_ROOT": "D:/backups/projects",
+  "FILE_LIST": [
+    "src/main.py",
+    "config/settings.json",
+    "README.md"
+  ]
+}
