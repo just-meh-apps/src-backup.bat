@@ -1,4 +1,8 @@
 @echo off
+REM SPDX-License-Identifier: MIT
+REM Copyright (c) 2026 just-meh-apps@gmail.com
+REM AI-Generated: This script was optimized for path error handling.
+
 setlocal
 
 if "%~1"=="" (
