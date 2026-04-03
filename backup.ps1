@@ -77,7 +77,7 @@ try {
     Write-Host "Backup completed: $zipPath" -ForegroundColor Cyan
 
     # 7. 탐색기 열기
-    Invoke-Item $backupRoot
+    # Invoke-Item $backupRoot
 
 } catch {
     Write-Error "An error occurred: $_"
